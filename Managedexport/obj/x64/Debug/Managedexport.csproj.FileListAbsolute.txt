@@ -1,0 +1,5 @@
+D:\vsprojects\Managedexport\Managedexport\bin\x64\Debug\Managedexport.dll
+D:\vsprojects\Managedexport\Managedexport\bin\x64\Debug\Managedexport.pdb
+D:\vsprojects\Managedexport\Managedexport\obj\x64\Debug\Managedexport.csproj.CoreCompileInputs.cache
+D:\vsprojects\Managedexport\Managedexport\obj\x64\Debug\Managedexport.dll
+D:\vsprojects\Managedexport\Managedexport\obj\x64\Debug\Managedexport.pdb
